@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-**Tool:** Power BI  
+**Tool:** Power BI  , Excel
 **Dataset:** sales_data.csv
 
 This dashboard analyzes regional sales performance, highlights top products, and identifies sales trends.
@@ -9,5 +9,5 @@ This dashboard analyzes regional sales performance, highlights top products, and
 
 **Files:**
 - `sales_dashboard.pbix`: Power BI dashboard file
-- `sales_data.csv`: Dataset
-- `screenshot.png`: Dashboard preview
+- `sales_data.xlsx`: Dataset
+- `dashboard.png`: Dashboard preview
